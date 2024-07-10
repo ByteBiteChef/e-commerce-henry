@@ -1,0 +1,14 @@
+.userButton {
+    width: 150px;
+    height: 60px;
+    border: 2px solid #465C58;
+    border-radius: 15px;
+    color: #465C58;
+    margin: 10px;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    cursor: pointer;
+}
